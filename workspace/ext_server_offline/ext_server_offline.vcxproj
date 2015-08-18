@@ -35,7 +35,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{D3F39324-040D-4B1F-ADA9-762F16A120E6}</ProjectGuid>
+    <ProjectGuid>{B3968C0E-DB94-44B5-B226-5E2834371B89}</ProjectGuid>
     <RootNamespace>ext_server_offline</RootNamespace>
     <Keyword>Win32Proj</Keyword>
   </PropertyGroup>
