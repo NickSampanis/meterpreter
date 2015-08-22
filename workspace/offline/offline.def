@@ -1,0 +1,5 @@
+LIBRARY .\Release\offline
+
+EXPORTS
+
+a
